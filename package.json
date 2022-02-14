@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tyanesouza.lwc-exemplo",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve RK79Gi2Oub5CMoBw5fxi --open"
+  }
+}
